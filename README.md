@@ -1,3 +1,5 @@
+This is my first react website I am developing for VSNA.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
